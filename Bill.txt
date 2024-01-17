@@ -1,0 +1,12 @@
+			 Bus Login System
+
+
+					 Date:Thu Dec 15 04:07:02 IST 2022
+
+			 Name: Nikhil
+			 EmailId: nikhilalugu10204@gmail.com
+			 Contact: 9910075605
+			 No. of tickets: 1
+			 Source: New Delhi
+			 Destination: Bengaluru
+			 Amount: 1725.0
