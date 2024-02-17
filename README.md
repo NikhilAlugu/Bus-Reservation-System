@@ -1,4 +1,4 @@
-TO RUN:
+TO RUN the code :
 <br>
 1>  Open Cmd/terminal.
 <br>
